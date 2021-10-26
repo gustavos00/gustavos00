@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gustavo Santos</h1>
 <h3 align="center">I'm a front-end developer and learning mobile</h3>
 
-- 🔭 I’m currently working on [myAnimal](https://github.com/gustavos00/myAnimal.git)
+- 🔭  I’m currently working on [myAnimal](https://github.com/gustavos00/myAnimal.git)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱  I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://devgustavo.com/](https://devgustavo.com/)
+- 👨‍💻  All of my projects are available at [https://devgustavo.com/](https://devgustavo.com/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React**
+- 💬  Ask me about **HTML, CSS, Javascript, React**
 
-- 📫 How to reach me **gustavo@devgustavo.com**
+- 📫  How to reach me **gustavo@devgustavo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
