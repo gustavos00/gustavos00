@@ -11,6 +11,12 @@
 
 - 📫  How to reach me **gustavo@devgustavo.com**
 
+<div>
+  <a href="https://github.com/gustavos00">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gstavos00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavos00&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gustavo-santos-3962031b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavosantos" height="30" width="40" /></a>
