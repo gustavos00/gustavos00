@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Santos</h1>
 <h3 align="center">I'm a front-end developer and learning mobile</h3>
 
-- 🔭  I’m currently working on [myAnimal](https://github.com/gustavos00/myAnimal.git)
+- 🔭  I’m currently working on [myAnimal](https://github.com/gustavos00/myAnimal.git) and [myAnimalAPI](https://github.com/gustavos00/myAnimalapi.git)
 
 - 🌱  I’m currently learning **React Native**
 
