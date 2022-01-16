@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Santos</h1>
-<h3 align="center">I'm a front-end developer and learning mobile</h3>
+<h3 align="center">I'm a fullstack developer with React Native, NodeJS and React.</h3>
 
 - 🔭  I’m currently working on [myAnimal](https://github.com/gustavos00/myAnimal.git) and [myAnimalAPI](https://github.com/gustavos00/myAnimalapi.git)
 
