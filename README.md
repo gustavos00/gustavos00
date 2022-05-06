@@ -10,7 +10,7 @@
 
 - 👨‍💻  All of my projects are available at [https://devgustavo.com/](https://devgustavo.com/)
 
-- 💬  Ask me about **HTML, CSS, Javascript, React**
+- 💬  Ask me about **React, React Native, NodeJS, PHP**
 
 - 📫  How to reach me **gustavo@devgustavo.com**
 
