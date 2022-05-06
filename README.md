@@ -1,3 +1,5 @@
+<img align="right" src="Code typing-bro.png" max-width="400px" width="400px" align="right">
+
 <h3 align="left"> Hello, I'm Gustavo Santos, welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
 
 <h4>💻 Full-stack Developer with React Native, ReactJS and NodeJS</h4>
