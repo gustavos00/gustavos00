@@ -10,7 +10,7 @@
 
 - 💬  Ask me about **React, React Native, NodeJS, PHP and Typescript**
 
-- 📫  How to reach me **gustavo@devgustavo.com**
+- 📫  My [linkedin](https://www.linkedin.com/in/expgustavo/)
 
 <h4>📱 Social </h4>
 
