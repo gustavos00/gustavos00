@@ -6,7 +6,7 @@
 
 - 🔭  I’m currently working on [myAnimal](https://github.com/gustavos00/myAnimal.git), [myAnimalWEB](https://github.com/gustavos00/myanimalweb) and [myAnimalAPI](https://github.com/gustavos00/myAnimalapi.git)
 
-- 🌱  I’m currently learning **React Native**
+- 🌱  I’m currently learning **NextJS and Jest**
 
 - 💬  Ask me about **React, React Native, NodeJS, PHP and Typescript**
 
