@@ -4,7 +4,9 @@
 
 <h4>💻 Full-stack Developer with React Native, ReactJS and NodeJS</h4>
 
+<!---
 - 🔭  I’m currently working on [WaiterAPP API](https://github.com/gustavos00/waiter-app-api.git) and [WaiterAPP mobile aplication](https://github.com/gustavos00/myanimalweb).
+-->
 
 - 🌱  I’m currently learning **NextJS and Jest**
 
