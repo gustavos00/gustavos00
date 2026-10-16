@@ -1,30 +1,35 @@
-<img align="right" src="codeimage.png" max-width="400px" width="400px" align="right">
+### Hi, I'm Gustavo 👋
 
-<h3 align="left"> Hello, I'm Gustavo Santos, welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
+Full-stack developer from Portugal 🇵🇹. I build web apps with **React** and **TypeScript**, and lately a lot of tooling around **AI agents**: how to run them, watch them and keep them on track.
 
-<h4>💻 Full-stack Developer with React Native, ReactJS and NodeJS</h4>
+- 🛠️ Day to day: React, TypeScript, Node.js, Tailwind, testing (Vitest, Testing Library, Playwright)
+- 🤖 Currently into: Claude Code, subagents and multi-agent workflows
+- 💬 Ask me about: frontend architecture, design systems, React Native, developer tooling
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/expgustavo/)
 
-<!---
-- 🔭  I’m currently working on [WaiterAPP API](https://github.com/gustavos00/waiter-app-api.git) and [WaiterAPP mobile aplication](https://github.com/gustavos00/myanimalweb).
--->
+---
 
-- 🌱  I’m currently learning **NextJS and Jest**
+### 🏙️ Latest: [Subagent City](https://github.com/gustavos00/subagent-city)
 
-- 💬  Ask me about **React, React Native, NodeJS, PHP and Typescript**
+A live map of the Claude Code subagents running on your machine: who started each one, what it is doing right now, which model it runs on, and when it is done. It runs 100% locally and is read-only.
 
-- 📫  My [linkedin](https://www.linkedin.com/in/expgustavo/)
+<a href="https://github.com/gustavos00/subagent-city">
+  <img src="https://raw.githubusercontent.com/gustavos00/subagent-city/main/docs/images/overview.png" alt="Subagent City: sessions, their subagents and projects on a live map, with a panel of subagent cards" width="100%">
+</a>
 
-<h4>📱 Social </h4>
+---
 
-<div>
-  
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/expgustavo/)](https://www.linkedin.com/in/expgustavo/)
+### 📦 Other projects
 
-</div>
-   <br><br>
-<div>
- <a href="https://github.com/gustavos00/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavos00&show_icons=true&theme=dark" style"max-width: 100%;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavos00&layout=compact&theme=dark" style"max-width: 100%;" />
- </a>
-</div>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [myanimal](https://github.com/gustavos00/myanimal) | Mobile app that gives pet owners easy access to their pets' data | React Native, TypeScript |
+| [myanimalweb](https://github.com/gustavos00/myanimalweb) · [myanimalapi](https://github.com/gustavos00/myanimalapi) | The vets' web app and the API behind the My Animal project | React, Node.js, TypeScript |
+| [moveit](https://github.com/gustavos00/moveit) | A Pomodoro app with small challenges and XP between work blocks | React, TypeScript |
+| [pizza_menu](https://github.com/gustavos00/pizza_menu) | A menu and add-to-cart system in plain JavaScript | JavaScript, CSS |
+
+---
+
+### 🧰 Tools I reach for
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
